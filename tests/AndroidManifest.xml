@@ -3,7 +3,7 @@
       package="com.example.i2at.tc.test"
       android:versionCode="20001"
       android:versionName="2.0.1">
-    <uses-sdk android:minSdkVersion="17" />
+    <uses-sdk android:minSdkVersion="16" />
     <instrumentation android:targetPackage="com.example.i2at.tc" android:name="com.neenbedankt.android.test.XMLInstrumentationTestRunner" />
     <application android:icon="@drawable/icon" android:label="@string/app_name">
 
