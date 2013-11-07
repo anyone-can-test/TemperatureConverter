@@ -10,7 +10,6 @@ public interface FinishListener {
 
 	/**
 	 * Invoked when the Activity finishes.
-	 * test
 	 */
 	void onActivityFinished();
 
